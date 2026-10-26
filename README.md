@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aurelian is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.aurelian.com/
+Aurelian provides an AI‑powered platform for emergency communications centres (PSAPs) and public safety agencies. Their solution combines automation with human judgment to handle 911 calls, non‑emergency queues, and operational workflows, helping telecommunicators deliver faster, consistent support. The platform includes virtual assistants like AVA and CORA, real‑time analytics, and tools for compliance, staffing optimization, and call‑volume management, aiming to improve public safety outcomes across regions.
+
+**Areas:** Company · AI · Public Safety · Emergency Communications · PSAP
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.aurelian.com/)
+- [Documentation](https://www.aurelian.com/resources)
+- [Getting started](https://www.aurelian.com/demo)
+- [Support](https://www.aurelian.com/faq)
+- [Blog](https://www.aurelian.com/newsroom)
+- [Privacy policy](https://www.aurelian.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aurelian/](https://apis.io/providers/aurelian/).
